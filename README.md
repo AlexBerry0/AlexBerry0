@@ -7,8 +7,8 @@ Most of my experence is in Docker and Linux.
 ## What I use:
 ![My Skills](https://skillicons.dev/icons?i=ts,arch,docker,astro,postman,js,vue,nix,linux,kotlin,arduino,bun&theme=dark&perline=4)
 ## More:
-<a href= "alex-berry.net">Personal Website </a>  
-Dotfiles - Coming soon  
+<a href= "https://alex-berry.net">Personal Website </a>  
+<a href= "https://github.com/AlexBerry0/dots">Dotfiles - WIP</a>  
 Most recent project - Unprivated soon  
 <a href="mailto:me@alex-berry.net">Contact me</a>  
 </div>
