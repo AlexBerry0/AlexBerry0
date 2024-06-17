@@ -6,12 +6,11 @@ Currently I'm learning Nix to finish moving my homeserver and laptop to NixOS, a
 Most of my experence is in Docker and Linux.  
 ## What I use:
 ![My Skills](https://skillicons.dev/icons?i=ts,nix,docker,astro,postman,js,vue,arch,linux,kotlin,arduino,bun&theme=dark&perline=4)
+&emsp; &emsp; &emsp;
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBerry0&layout=compact&exclude_repo=Modded-Catppuccin-Mocha-GTK-theme&theme=catppuccin_mocha&hide=shell,html)
 ## More:
 <a href= "https://alex-berry.net">Personal Website </a>  
 <a href= "https://github.com/AlexBerry0/dots">Dotfiles</a>  
 Most recent project - Unprivated soon  
 <a href="mailto:me@alex-berry.net">Contact me</a>  
-## Stats:
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBerry0&layout=compact&exclude_repo=Modded-Catppuccin-Mocha-GTK-theme&theme=catppuccin_mocha&hide=shell,html)
-
 </div>
