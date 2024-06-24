@@ -11,7 +11,7 @@ Most of my experence is in Docker and Linux.
 ## More:
 **[<kbd> <br> Website <br> </kbd>][Website]** 
 **[<kbd> <br> Dotfiles <br> </kbd>][Dotfiles]** 
-**[<kbd> <br> Most Recent Project (Unprivated soon) <br> </kbd>][Most Recent Project]** 
+**[<kbd> <br> Most Recent Project <br> </kbd>][Most Recent Project]** 
 **[<kbd> <br> Contact Me <br> </kbd>][Contact Me]**
 
 [Website]: https://alex-berry.net
