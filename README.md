@@ -7,7 +7,7 @@ Most of my experence is in Docker and Linux.
 ## What I use:
 ![My Skills](https://skillicons.dev/icons?i=ts,nix,docker,astro,postman,js,vue,arch,linux,kotlin,arduino,bun&theme=dark&perline=4)
 &emsp; &emsp; &emsp;
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBerry0&layout=compact&exclude_repo=Modded-Catppuccin-Mocha-GTK-theme&theme=github_dark&hide=shell,html))
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBerry0&layout=compact&exclude_repo=Modded-Catppuccin-Mocha-GTK-theme&theme=transparent&hide=shell,html&hide_border=true)
 ## More:
 **[<kbd> <br> Website <br> </kbd>][Website]** 
 **[<kbd> <br> Dotfiles <br> </kbd>][Dotfiles]** 
