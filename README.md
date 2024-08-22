@@ -2,12 +2,12 @@
 
 # Hello 👋
 I'm Alex Berry (he/him) - a fullstack developer at highschool in Aotearoa (New Zealand).  
-Currently I'm learning Nix to finish moving my homeserver and laptop to NixOS, and Kotlin to build android apps.  
+Currently I'm learning Nix & Kubernetes for my Homeserver, & improving my skills in Python.  
 Most of my experence is in Docker and Linux. 
 ## What I use:
-![My Skills](https://skillicons.dev/icons?i=ts,nix,docker,astro,postman,js,vue,arch,linux,kotlin,arduino,bun&theme=dark&perline=4)
+![My Skills](https://skillicons.dev/icons?i=nix,docker,astro,python,postman,js,vue,arch,linux,kotlin,arduino,bun&theme=dark&perline=4)
 &emsp; &emsp; &emsp;
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBerry0&layout=compact&exclude_repo=Modded-Catppuccin-Mocha-GTK-theme&theme=github_dark&hide=shell,html&hide_border=true)
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBerry0&layout=compact&exclude_repo=Modded-Catppuccin-Mocha-GTK-theme&theme=github_dark&hide=html&hide_border=false)
 ## More:
 **[<kbd> <br> Website <br> </kbd>][Website]** 
 **[<kbd> <br> Dotfiles <br> </kbd>][Dotfiles]** 
