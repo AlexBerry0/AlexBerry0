@@ -7,4 +7,8 @@ Most of my experence is in Docker and Linux.
 ## What I use:
 ![My Skills](https://skillicons.dev/icons?i=nix,docker,astro,python,postman,js,vue,arch,linux,kotlin,arduino,bun&theme=dark&perline=4)
 &emsp; &emsp; &emsp;
-![My Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=AlexBerry0&layout=compact&exclude_repo=Modded-Catppuccin-Mocha-GTK-theme&theme=github_dark&hide=html&hide_border=false)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexBerry0&amp;layout=compact&amp;exclude_repo=Modded-Catppuccin-Mocha-GTK-theme&amp;theme=github_dark&amp;hide=html&amp;hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexBerry0&amp;layout=compact&amp;exclude_repo=Modded-Catppuccin-Mocha-GTK-theme&amp;theme=default&amp;hide=html&amp;hide_border=false">
+  <img alt="My Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexBerry0&amp;layout=compact&amp;exclude_repo=Modded-Catppuccin-Mocha-GTK-theme&amp;theme=default&amp;hide=html&amp;hide_border=false">
+</picture>
